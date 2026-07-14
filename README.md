@@ -6,9 +6,10 @@ Supporting materials and archived documents for the following first-author publi
 > *IET Conference Proceedings / CONF-SPML 2025*, EI Compendex.  
 > DOI: [10.1049/icp.2025.1009](https://doi.org/10.1049/icp.2025.1009)
 
-## Contents
+## Full text
 
-- `CONF-SPML 2024.pdf` — Conference proceedings document.
+The published paper (version of record) is available from the publisher via the DOI above
+(IET Digital Library / IEEE Xplore). It is not redistributed here.
 
 ## Related work
 
