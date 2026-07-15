@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite the published paper below."
+authors:
+  - family-names: "Liu"
+    given-names: "Jiadong"
+    orcid: "https://orcid.org/0009-0008-5992-2065"
+title: "Comparative Study of Neural Architecture Search Methods: Random Search, RNN + Reinforcement Learning, and Evolutionary Algorithms on CIFAR-10"
+type: conference-paper
+year: 2025
+doi: 10.1049/icp.2025.1009
+url: "https://doi.org/10.1049/icp.2025.1009"
+collection-title: "IET Conference Proceedings (CONF-SPML 2025)"
